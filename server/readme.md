@@ -36,15 +36,15 @@ ex. 中 3 個號碼，獎金為:50(點) x5(倍) = 250 (點
 
 
 ## 插件
-1、body-parser: 對post請求的請求體進行解析
-2、cors: 後端解決跨域問題
-3、express: node.js Web應用框架
-4、moment: 輕量級js時間庫
-5、mysql: 關聯式資料管理系統
-6、nodemon: 監視node.js應用，更改並自動重啟服務
-7、node-schedule: 定時任務
-8、socket.io: 能使服務器與客戶端之間實現雙向通訊
-9、uuid: 產生亂碼
+# 1、body-parser: 對post請求的請求體進行解析
+# 2、cors: 後端解決跨域問題
+# 3、express: node.js Web應用框架
+# 4、moment: 輕量級js時間庫
+# 5、mysql: 關聯式資料管理系統
+# 6、nodemon: 監視node.js應用，更改並自動重啟服務
+# 7、node-schedule: 定時任務
+# 8、socket.io: 能使服務器與客戶端之間實現雙向通訊
+# 9、uuid: 產生亂碼
 
 ## 資料夾
 1、app.js - 啟動文件
